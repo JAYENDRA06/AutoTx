@@ -1,6 +1,4 @@
-# expense
-
-A new Flutter project.
+# AutoTx
 
 ## Getting Started
 
